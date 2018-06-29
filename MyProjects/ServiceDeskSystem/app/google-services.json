@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910126842471",
+    "firebase_url": "https://servicedesksystem-a9d32.firebaseio.com",
+    "project_id": "servicedesksystem-a9d32",
+    "storage_bucket": "servicedesksystem-a9d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910126842471:android:dc2ea9533e942a47",
+        "android_client_info": {
+          "package_name": "com.hfad.servicedesksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910126842471-1mahalhm856m6sarra9p3ajqk6lr21aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.servicedesksystem",
+            "certificate_hash": "e6563b3b4488fd38591d8b91490e25695be629de"
+          }
+        },
+        {
+          "client_id": "910126842471-2ks6avv269a50rjiqr2r2dtde9nsto7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDXtI0a22QfRHxaRnHOLJs_fPCdrRp4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910126842471-2ks6avv269a50rjiqr2r2dtde9nsto7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
